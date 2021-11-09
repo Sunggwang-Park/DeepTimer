@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Timer.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>bitcode</key>
+			<true/>
+			<key>buildNumber</key>
+			<string>5</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>D7D6A3617AFD51C5E20EBE408817BFFB4823A712</string>
+				<key>dateExpires</key>
+				<string>2022/10/07</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>4QMLJUYQ2D.Mile.Timer</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>4QMLJUYQ2D</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>4QMLJUYQ2D.Mile.Timer</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Timer.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>1f62d162-f9ba-497b-a9e7-d02466b4c9d4</string>
+				<key>dateExpires</key>
+				<string>2022/10/07</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: Mile.Timer</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>4QMLJUYQ2D</string>
+				<key>name</key>
+				<string>Seonggwang Park</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
