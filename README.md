@@ -8,7 +8,8 @@
 Focus 시간에 열심히 집중한 후 
 Break 시간에 휴식을 취하세요
 
-![initial]<img src ="https://user-images.githubusercontent.com/54604123/141670395-0a19a29c-ec5a-4809-a0b0-0f2387e4e956.png" width="500" height="500">
+# 앱 
+<img src ="https://user-images.githubusercontent.com/54604123/141670395-0a19a29c-ec5a-4809-a0b0-0f2387e4e956.png" width="300" height="300">
 
 
 ## 설치 방법
