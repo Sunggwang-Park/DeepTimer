@@ -1,81 +1,50 @@
 # DeepTimer
 딥워크를 위한 타이머
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 
 Focus 시간에 열심히 집중한 후 
 Break 시간에 휴식을 취하세요
 
-# 앱 
+# 앱 로고
 <img src ="https://user-images.githubusercontent.com/54604123/141670395-0a19a29c-ec5a-4809-a0b0-0f2387e4e956.png" width="300" height="300">
 
 
-## 설치 방법
+# 다운로드
 
-OS X & 리눅스:
+* <https://apps.apple.com/kr/app/deeptimer/id1589173936?l=en>
 
-```sh
-npm install my-crazy-module --save
-```
+# 설치 환경
 
-윈도우:
+iOS 14.5 이상
 
-```sh
-edit autoexec.bat
-```
 
-## 사용 예제
+# 사용법
 
-스크린 샷과 코드 예제를 통해 사용 방법을 자세히 설명합니다.
+**타이머 시작/중지** 
 
-_더 많은 예제와 사용법은 [Wiki][wiki]를 참고하세요._
 
-## 개발 환경 설정
+<img src ="https://user-images.githubusercontent.com/54604123/141673928-b6429117-6e08-4050-822b-babeb4f29939.gif" width = "307" height = "632">
 
-모든 개발 의존성 설치 방법과 자동 테스트 슈트 실행 방법을 운영체제 별로 작성합니다.
+**시간 설정** 
 
-```sh
-make install
-npm test
-```
+
+<img src ="https://user-images.githubusercontent.com/54604123/141674093-ffb3661c-37a9-4212-ba54-b1411f3bc0a8.gif" width = "307" height = "632">
+
+
 
 ## 업데이트 내역
 
-* 0.2.1
-    * 수정: 문서 업데이트 (모듈 코드 동일)
-* 0.2.0
-    * 수정: `setDefaultXYZ()` 메서드 제거
-    * 추가: `init()` 메서드 추가
-* 0.1.1
-    * 버그 수정: `baz()` 메서드 호출 시 부팅되지 않는 현상 (@컨트리뷰터 감사합니다!)
-* 0.1.0
+* 1.2
+    * 버그 수정 : Fix the timer speed
+* 1.1
+    * Change Bundle name 'Timer' to 'DeepTimer'
+    * More detail for Promotional Text and Description
+* 1.0
     * 첫 출시
-    * 수정: `foo()` 메서드 네이밍을 `bar()`로 수정
-* 0.0.1
-    * 작업 진행 중
 
-## 정보
 
-이름 – [@트위터 주소](https://twitter.com/dbader_org) – 이메일주소@example.com
+## 사용 기술
+* UIKit
+* MVVM
+* RxSwift
 
-XYZ 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할 수 있습니다.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
-
-## 기여 방법
-
-1. (<https://github.com/yourname/yourproject/fork>)을 포크합니다.
-2. (`git checkout -b feature/fooBar`) 명령어로 새 브랜치를 만드세요.
-3. (`git commit -am 'Add some fooBar'`) 명령어로 커밋하세요.
-4. (`git push origin feature/fooBar`) 명령어로 브랜치에 푸시하세요. 
-5. 풀리퀘스트를 보내주세요.
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
