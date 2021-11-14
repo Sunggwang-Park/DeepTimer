@@ -8,7 +8,7 @@
 Focus 시간에 열심히 집중한 후 
 Break 시간에 휴식을 취하세요
 
-![initial]("https://github.com/Sunggwang-Park/DeepTimer/issues/1#issue-1052861630")
+![initial](https://github.com/Sunggwang-Park/DeepTimer/issues/1#issue-1052861630)
 
 
 ## 설치 방법
