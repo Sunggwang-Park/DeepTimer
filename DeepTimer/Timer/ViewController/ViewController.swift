@@ -19,7 +19,7 @@ class ViewController: UIViewController, UIViewDelegate {
     var viewWidth:CGFloat = 0.0
     var viewHeight:CGFloat = 0.0
 
-    let viewModel = ViewModel()
+    private lazy var viewModel = ViewModel()
     
     // MARK: - viewDidLoad
     override func viewDidLoad() {
